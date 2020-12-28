@@ -1,0 +1,7 @@
+Usage :-
+$ todo add DATA  	     		# Add a new todo
+$ todo show                                        	# Show remaining todos
+$ todo delete NUMBER      	   	# Delete a todo
+$ todo help             		  	# Show usage
+$ todo report           		 	# Statistics
+$ quit				#exit
